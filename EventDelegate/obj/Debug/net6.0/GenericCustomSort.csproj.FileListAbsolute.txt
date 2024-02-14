@@ -1,0 +1,14 @@
+C:\Users\dheerajb\source\repos\EventDelegate\EventDelegate\bin\Debug\net6.0\GenericCustomSort.exe
+C:\Users\dheerajb\source\repos\EventDelegate\EventDelegate\bin\Debug\net6.0\GenericCustomSort.deps.json
+C:\Users\dheerajb\source\repos\EventDelegate\EventDelegate\bin\Debug\net6.0\GenericCustomSort.runtimeconfig.json
+C:\Users\dheerajb\source\repos\EventDelegate\EventDelegate\bin\Debug\net6.0\GenericCustomSort.dll
+C:\Users\dheerajb\source\repos\EventDelegate\EventDelegate\bin\Debug\net6.0\GenericCustomSort.pdb
+C:\Users\dheerajb\source\repos\EventDelegate\EventDelegate\obj\Debug\net6.0\GenericCustomSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dheerajb\source\repos\EventDelegate\EventDelegate\obj\Debug\net6.0\GenericCustomSort.AssemblyInfoInputs.cache
+C:\Users\dheerajb\source\repos\EventDelegate\EventDelegate\obj\Debug\net6.0\GenericCustomSort.AssemblyInfo.cs
+C:\Users\dheerajb\source\repos\EventDelegate\EventDelegate\obj\Debug\net6.0\GenericCustomSort.csproj.CoreCompileInputs.cache
+C:\Users\dheerajb\source\repos\EventDelegate\EventDelegate\obj\Debug\net6.0\GenericCustomSort.dll
+C:\Users\dheerajb\source\repos\EventDelegate\EventDelegate\obj\Debug\net6.0\refint\GenericCustomSort.dll
+C:\Users\dheerajb\source\repos\EventDelegate\EventDelegate\obj\Debug\net6.0\GenericCustomSort.pdb
+C:\Users\dheerajb\source\repos\EventDelegate\EventDelegate\obj\Debug\net6.0\GenericCustomSort.genruntimeconfig.cache
+C:\Users\dheerajb\source\repos\EventDelegate\EventDelegate\obj\Debug\net6.0\ref\GenericCustomSort.dll
